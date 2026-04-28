@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Saryam
+Description=Saryam plymouth theme fork
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/saryam/
+ScriptFile=/usr/share/plymouth/themes/saryam/saryam.script
